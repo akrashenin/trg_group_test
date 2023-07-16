@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1689527684 source:/home/akrashenin/Projects/CodeBlocks/test_trg_group/test_trg_group.cpp
+	<iostream>
+	<string>
+	<sqlite3.h>
+	<fstream>
+	<sstream>
+
